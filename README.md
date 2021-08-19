@@ -1,5 +1,4 @@
-# paintjs
-<hr>
+# 그림판 프로젝트 - paintjs
 
 # Introduction
 + <b>Canvas API</b>
